@@ -38,5 +38,3 @@ int main(){
 	printf("%lld\n",result);
 	return 0;
 }
-
-//https://codeforces.com/problemset/problem/862/B
